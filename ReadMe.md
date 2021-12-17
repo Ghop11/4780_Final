@@ -2,7 +2,7 @@
 |-----|-----|----|-----|
 |GHop11|Dec 8, 2021| CS 4780 | Cryptography & Info Security | 
 
-# Final Cheatsheet
+# Final Notes
 #### To understand topics visit FinalTopic.md for a better break down of all covered topics
 #### To learn how to run the code read below
 
